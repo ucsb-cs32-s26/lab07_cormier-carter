@@ -1,0 +1,9 @@
+*.o
+*.a
+band_scan
+p_band_scan
+pthread-ex
+parallel-sum-ex
+sig-[0-9]*.bin
+*.out
+out.wav
